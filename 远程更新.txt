@@ -1,0 +1,34 @@
+<ServiceData>{ 
+  ["Update"]= 
+  { 
+    ["Version"]="1.1.4", 
+    ["ChangeLog"]=[[您将从 [VersionName] 更新至最新版本, 
+ 
+[AppLabel] 更新日志: 
+
+- 添加了会员专区，会员可以免费下载里面所有软件和素材
+
+- 添加了陌陌视频去水印
+
+- 修改了一下BUG]], 
+    ["ChangeLogUseHtml"]="false", 
+    ["DownloadUrl"]="https://www.lanzous.com/i1240if", 
+    ["Force"]="true", 
+    ["UseVersionName"]="true", 
+  },
+  ["Notice"]= 
+  { 
+    ["ID"]="", 
+    ["Title"]="苏南软件", 
+    ["Message"]="幸运之神的降临，往往只是因为你多看了一眼，多想了一下，多走了一步。", 
+    ["MessageUseHtml"]="true", 
+    ["Button"]="联系我", 
+    ["OpenUri"]="mqqapi://card/show_pslcard?uin=2565302105", 
+
+    ["Button1"]="知道了", 
+    ["OpenUri1"]="", 
+
+    ["Button2"]="进群聊", 
+    ["OpenUri2"]="https://jq.qq.com/?_wv=1027&k=5GWB2wx", 
+  }, 
+}</ServiceData>
